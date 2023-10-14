@@ -1,20 +1,22 @@
 <div align="center"><img src="asset/logo.png" width="50%"></div>
 
-#OCS PANEL JNOLOGI VPN
+<h1>OCS PANEL JNOLOGI VPN</h1></br>
 Repositori ini digunakan untuk installasi panel web management server vpn tunneling `JNOLOGI VPN`
 
-###Author
+Author
+<ul>
+  <li>
+    JAUHAR IMTIKHAN
+  </li>
+</ul>
 
-- JAUHAR IMTIKHAN
-
-###Disclaimer
+Disclaimer
 <span>Gunakan `VPN JNOLOGI` dengan bijak</span>
 <font color="red"><b>DILARANG KERAS :</b></font>
-
 - DDoS
 - 18+
 - Hacking
 - Carding
 - Phising
 - Dll
-<center><p style="color:green;">-- Terimakasih --</p></center>
+<div align="center"><p color="green">-- Terimakasih --</p></div>
