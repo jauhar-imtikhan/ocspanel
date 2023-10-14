@@ -13,10 +13,23 @@ Repositori ini digunakan untuk installasi panel web management server vpn tunnel
 <h3>Disclaimer</h3>
 <span>Gunakan `VPN JNOLOGI` dengan bijak</span>
 <font color="red"><b>DILARANG KERAS :</b></font>
-- DDoS
-- 18+
-- Hacking
-- Carding
-- Phising
-- Dll
+<ul>
+  <li> 
+     DDoS   
+  </li>
+  <li>
+     18+    
+  </li>
+    
+<li>Hacking</li>
+<li> 
+ Carding
+</li>
+<li>
+Phising  
+</li>
+<li>
+Dll  
+</li>
+</ul>
 </br><div align="center"><p color="green">-- Terimakasih --</p></div>
