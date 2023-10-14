@@ -3,14 +3,14 @@
 <h1>OCS PANEL JNOLOGI VPN</h1></br>
 Repositori ini digunakan untuk installasi panel web management server vpn tunneling `JNOLOGI VPN`
 
-Author
+<h2>Author</h2>
 <ul>
   <li>
     JAUHAR IMTIKHAN
   </li>
 </ul>
 
-Disclaimer
+<h3>Disclaimer</h3>
 <span>Gunakan `VPN JNOLOGI` dengan bijak</span>
 <font color="red"><b>DILARANG KERAS :</b></font>
 - DDoS
