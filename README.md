@@ -1,7 +1,7 @@
 <div align="center"><img src="asset/logo.png" width="50%"></div>
 
 <h1 color="red">OCS PANEL JNOLOGI VPN</h1></br>
-Repositori ini digunakan untuk installasi panel web management server vpn tunneling ``JNOLOGI VPN``
+Repositori ini digunakan untuk installasi panel web management server vpn tunneling ```JNOLOGI VPN```
 
 <h2>Author</h2>
 <ul>
